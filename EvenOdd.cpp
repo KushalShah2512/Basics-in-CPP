@@ -11,4 +11,6 @@ int main()
         cout << "Number is even";
     else
         cout << "NUmber is odd";
+
+    return 0;
 }
